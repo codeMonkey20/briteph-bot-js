@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "briteph-bot",
+		"stack": "node16",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "src/index.js"
+	}
+}

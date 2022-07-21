@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8912000000036016",
+      "name": "britephBot",
+      "domain": {
+        "id": "10045530789",
+        "name": "britephbot-763668882.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "763668882",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
